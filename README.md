@@ -14,6 +14,7 @@
 - ⚡ Fun fact: ...
 -->
 
+
 <h2 align="center">I've worked with</h2>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -32,6 +33,8 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ### ⚙️ &nbsp; Git Analytics
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryaZareM&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaryaZareM&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaryaZareM&theme=github&)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaryaZareM&theme=github&utcOffset=8)
  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=DaryaZareM&theme=light&show_icons=true" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaryaZareM&theme=light&layout=compact" width="300" /></p>
