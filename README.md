@@ -1,39 +1,11 @@
 ### Hi there 👋
 
+- Currently studying emergent misalignment and how to evaluate language models across single-turn tasks and multi-turn agentic settings.
+- Interested in AI safety, interpretability, evaluation, and alignment.
 
-- 🔭 I'm currently working on nlp and social media text mining
-- 📫 How to reach me: daryaz2079@gmail.com
-- 🌱 I'm interested in AI and IoT
-<!--
-- 🌱 I’m currently learning nlp models
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+### Git analytics
 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryaZareM&theme=github)
 
-
-<h2 align="center">I've worked with</h2>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-### ⚙️ &nbsp; Git Analytics
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaryaZareM&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DaryaZareM&theme=github)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaryaZareM&theme=github&)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaryaZareM&theme=github&utcOffset=8)
- 
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaryaZareM&theme=github)
+![Productive time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DaryaZareM&theme=github&utcOffset=2)
